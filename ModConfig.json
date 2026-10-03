@@ -1,0 +1,30 @@
+{
+  "ModId": "p4g64.mouselook",
+  "ModName": "Persona 4 Golden Modern Mouse-Look",
+  "ModAuthor": "Antigravity",
+  "ModVersion": "1.3.2",
+  "ModDescription": "Modern 1:1 mouse-look camera with vertical pitch (tilt up/down), dungeon banter filter, middle mouse recenter, Reloaded-II GUI configuration, live sensitivity hotkeys, and smart cursor management.",
+  "ModDll": "p4g64.mouselook.dll",
+  "ModIcon": "",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [
+    "Camera",
+    "Input",
+    "Quality of Life"
+  ],
+  "CanUnload": false,
+  "HasExports": false,
+  "IsLibrary": false,
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "P4G.exe"
+  ],
+  "ProjectUrl": ""
+}

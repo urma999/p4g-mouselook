@@ -1,0 +1,16 @@
+{
+  "SensitivityX": 10.0,
+  "SensitivityY": 10.0,
+  "EnablePitch": false,
+  "InvertX": false,
+  "InvertY": false,
+  "HoldAltToUnlock": true,
+  "MiddleMouseResetCamera": true,
+  "ToggleKey": 192,
+  "SensitivityUpKey": 221,
+  "SensitivityDownKey": 219,
+  "AutoUnlockInMenu": true,
+  "AutoUnlockInBattle": true,
+  "AutoUnlockInDialogue": true,
+  "AutoUnlockInCutscene": true
+}

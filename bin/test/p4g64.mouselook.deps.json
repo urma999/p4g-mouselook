@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "p4g64.mouselook/1.0.0": {
+        "dependencies": {
+          "Reloaded.Hooks.Definitions": "1.15.0",
+          "Reloaded.Mod.Interfaces": "2.5.0"
+        },
+        "runtime": {
+          "p4g64.mouselook.dll": {}
+        }
+      },
+      "Reloaded.Hooks.Definitions/1.15.0": {
+        "runtime": {
+          "lib/net6.0/Reloaded.Hooks.Definitions.dll": {
+            "assemblyVersion": "1.15.0.0",
+            "fileVersion": "1.15.0.0"
+          }
+        }
+      },
+      "Reloaded.Mod.Interfaces/2.5.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/Reloaded.Mod.Interfaces.dll": {
+            "assemblyVersion": "2.5.0.0",
+            "fileVersion": "2.5.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p4g64.mouselook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Reloaded.Hooks.Definitions/1.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bLY20vYB0fS2xwu6RDQVwlJxt2//KXLigYrCsCuzt5QFQqkvft4abq9FWPeCJYcvEeg/GQpJ3LC+108/4I2l+g==",
+      "path": "reloaded.hooks.definitions/1.15.0",
+      "hashPath": "reloaded.hooks.definitions.1.15.0.nupkg.sha512"
+    },
+    "Reloaded.Mod.Interfaces/2.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pGv7K8M05W6zO1+Gy21EEiDtjnbfjZIhds3lFtir1apN948mAmniF/lO8NRG4W97wJrd/3PJ8n5pFvokrI5y4A==",
+      "path": "reloaded.mod.interfaces/2.5.0",
+      "hashPath": "reloaded.mod.interfaces.2.5.0.nupkg.sha512"
+    }
+  }
+}
